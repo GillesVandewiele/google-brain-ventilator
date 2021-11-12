@@ -1,0 +1,6 @@
+[submodule "google-brain-ventilator-pressure-prediction"]
+	path = google-brain-ventilator-pressure-prediction
+	url = https://github.com/whoknowsB/google-brain-ventilator-pressure-prediction.git
+[submodule "Google-Brain-Ventilator"]
+	path = Google-Brain-Ventilator
+	url = https://github.com/Shujun-He/Google-Brain-Ventilator
