@@ -8,3 +8,10 @@ The code of our two models can be found here:
 
 
 The matching code is available in `find_pressure_w_triangle.py` but is rather messy. For a better explanation of the concepts, please check out our [notebook on Kaggle](https://www.kaggle.com/group16/1-solution-pid-controller-matching-v1). The `Create Script` notebook can be used to create bash scripts that will do the matching on different CPU's of your computer.
+
+We also published multiple notebooks on Kaggle:
+1) [PID Matching](https://www.kaggle.com/group16/1-solution-pid-controller-matching-v1)
+2) [Train 1 Fold of the LSTM + CNN Transformer](https://www.kaggle.com/shujun717/1-solution-lstm-cnn-transformer-1-fold)
+
+
+And a [dataset](https://www.kaggle.com/shujun717/googlebrainventilator1stshujun) of pretrained models for the LSTM + CNN transformer model is available on Kaggle as well! 
